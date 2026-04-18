@@ -1,0 +1,1 @@
+Answer the question: "What color is the sky?"
