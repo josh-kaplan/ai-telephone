@@ -86,20 +86,20 @@ This was run using a chain depth of 7 and scored only the final output for each
 five tasks. Each task is worth 1 point, with some tasks allowing partial 
 credit. 
 
-| Model         | Score | Possible Points | Time (s) |
-|:-------------:|:-----:|:---------------:|:--------:|
-│ gemma4:e2b          │   5.0 │               5 │    80.77 │
-│ nemotron-3-nano:30b │   5.0 │               5 │   140.13 │
-│ gemma4:e4b          │   5.0 │               5 │   154.24 │
-│ qwen3.5:9b          │   5.0 │               5 │   221.78 │
-│ qwen3.6:35b         │   5.0 │               5 │   274.03 │
-│ gemma4:31b          │   5.0 │               5 │   451.96 │
-│ nemotron-3-nano:4b  │   4.5 │               5 │    99.82 │
-│ granite4:3b         │   4.0 │               5 │    16.12 │
-│ llama3.2            │   3.0 │               5 │    19.38 │
-│ granite4:350m       │   2.0 │               5 │     6.27 │
-│ granite4:1b         │   2.0 │               5 │    14.40 │
-│ qwen3.5:0.8b        │   2.0 │               5 │   166.03 │
+| Model              | Score | Possible Points | Time (s) |
+|:-------------------:|:-----:|:---------------:|:--------:|
+| gemma4:e2b          |   5.0 |              5  |    80.77 |
+| nemotron-3-nano:30b |   5.0 |              5  |   140.13 |
+| gemma4:e4b          |   5.0 |              5  |   154.24 |
+| qwen3.5:9b          |   5.0 |              5  |   221.78 |
+| qwen3.6:35b         |   5.0 |              5  |   274.03 |
+| gemma4:31b          |   5.0 |              5  |   451.96 |
+| nemotron-3-nano:4b  |   4.5 |              5  |    99.82 |
+| granite4:3b         |   4.0 |              5  |    16.12 |
+| llama3.2            |   3.0 |              5  |    19.38 |
+| granite4:350m       |   2.0 |              5  |     6.27 |
+| granite4:1b         |   2.0 |              5  |    14.40 |
+| qwen3.5:0.8b        |   2.0 |              5  |   166.03 |
 
 
 
